@@ -1,0 +1,20 @@
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.deps.json
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.dll
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.pdb
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.AssemblyInfo.cs
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.dll
+C:\Users\Home\source\repos\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.pdb
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.dll
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.pdb
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.deps.json
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.dll
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\bin\Debug\netcoreapp3.1\CinemaApp.Entity.pdb
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.AssemblyInfo.cs
+C:\Users\Rovshan Jafarli\Desktop\CinemaApp\CinemaApp.Entity\obj\Debug\netcoreapp3.1\CinemaApp.Entity.csproj.CoreCompileInputs.cache

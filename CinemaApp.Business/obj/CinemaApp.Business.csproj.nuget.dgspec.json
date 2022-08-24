@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Business\\CinemaApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Business\\CinemaApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Business\\CinemaApp.Business.csproj",
+        "projectName": "CinemaApp.Business",
+        "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Business\\CinemaApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Rovshan Jafarli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rovshan Jafarli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj"
+              },
+              "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "projectName": "CinemaApp.Core",
+        "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\CinemaApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Rovshan Jafarli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rovshan Jafarli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj",
+        "projectName": "CinemaApp.Entity",
+        "projectPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\CinemaApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\Rovshan Jafarli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rovshan Jafarli\\Desktop\\CinemaApp\\CinemaApp.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rovshan Jafarli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
